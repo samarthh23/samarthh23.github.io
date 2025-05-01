@@ -1,6 +1,7 @@
 # 👨‍💻 Samarth Hegde
 
-<img src="/images/logo.png" alt="Logo" width="150" />
+<img src="/images/logo.png" alt="Logo" width="150" style="border-radius: 50%;" />
+
 
 🎓 Third-year Information Science Engineering student at Vidyavardhaka College of Engineering (CGPA: 8.97)  
 📍 Mysuru, India  
