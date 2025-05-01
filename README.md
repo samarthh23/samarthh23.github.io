@@ -1,6 +1,6 @@
 # 👨‍💻 Samarth Hegde
 
-🎓 Third-year Information Science Engineering student at Vidyavardhaka College of Engineering (CGPA: 8.96)  
+🎓 Third-year Information Science Engineering student at Vidyavardhaka College of Engineering (CGPA: 8.97)  
 📍 Mysuru, India  
 📧 Email: [samarthhegde45@gmail.com](mailto:samarthhegde45@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/samarth-hegde-41a92a280](https://www.linkedin.com/in/samarth-hegde-41a92a280/)  
@@ -28,14 +28,16 @@ I'm an engineering student with a deep interest in Web Development, Artificial I
 📅 Issued: Jul 25, 2024
 Completed foundational training in Artificial Intelligence and Machine Learning.
 Covered core concepts including supervised learning, model evaluation, and ethical AI practices.
-🔗 Verify Credential
+[🔗 Verify Credential](https://www.credly.com/badges/76a6d68d-c597-431d-bf39-c3741e9290c7)
+
 
 ### 📊 Machine Learning Program — Finlatics
 📅 Timeline: Nov 2024 – Jan 2025
 Gained practical knowledge in machine learning algorithms and real-world application design.
 Worked on data-driven solutions and model implementation using Python and ML libraries.
 Credential ID: ML-877408341134d35f
-🔗 Verify Credential
+[🔗 Verify Credential](https://finlatics.com/credentialscheck)
+
 
 ---
 
