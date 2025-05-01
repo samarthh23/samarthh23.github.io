@@ -7,6 +7,8 @@
 📍 Mysuru, India  
 📧 Email: [samarthhegde45@gmail.com](mailto:samarthhegde45@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/samarth-hegde-41a92a280](https://www.linkedin.com/in/samarth-hegde-41a92a280/)  
+🐦 [Twitter](https://x.com/_samaarth_)  
+📸 [Instagram](https://instagram.com/samarthh.23)
 
 ---
 
@@ -18,7 +20,7 @@ I'm an engineering student with a deep interest in Web Development, Artificial I
 
 ## 🛠 Skills
 
-- **Programming Languages:** Python, PHP, C++, JavaScript, SQL, Java  
+- **Programming Languages:** Python, C++, JavaScript, SQL, Java  
 - **AI/ML Tools:** TensorFlow, Keras, Scikit-learn, NLTK, SpaCy  
 - **DevOps & Cloud:** Git, GitHub, GitLab, Docker, Kubernetes, AWS, GCP  
 - **Soft Skills:** Problem-Solving, Adaptability, Fast Learner, Resilience  
@@ -73,6 +75,4 @@ Tech Stack: Python, Flask, JavaScript, HTML/CSS, Dialogflow ES, TensorFlow, NLTK
 
 ---
 
-## 📫 Let's Connect
-Feel free to reach out or collaborate on open-source or ML/Web projects!
 
