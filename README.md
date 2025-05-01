@@ -22,6 +22,23 @@ I'm an engineering student with a deep interest in Web Development, Artificial I
 
 ---
 
+## 🧑‍💼 Experience
+
+### 🎓 Artificial Intelligence Fundamentals — IBM SkillsBuild (Certification)
+📅 Issued: Jul 25, 2024
+Completed foundational training in Artificial Intelligence and Machine Learning.
+Covered core concepts including supervised learning, model evaluation, and ethical AI practices.
+🔗 Verify Credential
+
+### 📊 Machine Learning Program — Finlatics
+📅 Timeline: Nov 2024 – Jan 2025
+Gained practical knowledge in machine learning algorithms and real-world application design.
+Worked on data-driven solutions and model implementation using Python and ML libraries.
+Credential ID: ML-877408341134d35f
+🔗 Verify Credential
+
+---
+
 ## 🚀 Projects
 
 ### 🌱 Carbon Offset Calculator Website
@@ -33,7 +50,11 @@ Implemented a full CI/CD pipeline using Jenkins and Docker to streamline app dep
 **Tech Stack:** Jenkins, Docker, Git, AWS, Nginx  
 
 ### 🤖 AI-Powered Health & Wellness Chatbot
-During my IBM internship, developed an AI-driven chatbot for real-time health insights and patient engagement using ML and NLP.  
+Designed and developed an AI-powered chatbot to support patient wellness and engagement.
+Applied NLP techniques to answer health queries, track user metrics, and offer personalized insights.
+Built both back-end logic and front-end interface using modern machine learning and web development tools.
+Tech Stack: Python, Flask, JavaScript, HTML/CSS, Dialogflow ES, TensorFlow, NLTK, SpaCy, MongoDB, GitHub
+
 
 ---
 
