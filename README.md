@@ -5,10 +5,10 @@
 
 🎓 Third-year Information Science Engineering student at Vidyavardhaka College of Engineering (CGPA: 8.97)  
 📍 Mysuru, India  
-📧 Email: [samarthhegde45@gmail.com](mailto:samarthhegde45@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/samarth-hegde-41a92a280](https://www.linkedin.com/in/samarth-hegde-41a92a280/)  
-🐦 [Twitter](https://x.com/_samaarth_)  
-📸 [Instagram](https://instagram.com/samarthh.23)
+📧 [EMAIL](mailto:samarthhegde45@gmail.com)  
+🔗 [LINKEDIN](https://www.linkedin.com/in/samarth-hegde-41a92a280/)  
+🐦 [TWITTER](https://x.com/_samaarth_)  
+📸 [INSTAGRAM](https://instagram.com/samarthh.23)
 
 ---
 
